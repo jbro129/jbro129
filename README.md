@@ -23,4 +23,4 @@ Welcome to my Github profile
 <br/>
 <br/>
 
-[![Jbro129's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbro129)](https://github.com/anuraghazra/github-readme-stats)
+[![Jbro129's GitHub stats](https://github-readme-stats.vercel.app/api?username=jbro129&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
